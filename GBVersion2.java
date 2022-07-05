@@ -32,7 +32,7 @@ public class GBVersion2 {
 	public double performCalc() {
 		double copperMarketValue = 14.234, goldMarketValue = 18.673, marketTotal;
 		marketTotal = copperMarketValue + goldMarketValue;
-		return marketTotal; //Should output 32.907
+		return marketTotal; //Should output 32.91
 	}
 
 }
